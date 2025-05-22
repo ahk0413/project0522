@@ -5,9 +5,8 @@
 ```bash
 git config --global user.name "사용자이름"
 git config --global user.email "사용자이메일"
-```
--사용자 정보확인
-```bash
+
+#사용자 정보확인
 git config --list
 ```
 
